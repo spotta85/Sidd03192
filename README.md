@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 Welcome to my Github!</h1>
 
-<p align="left">My name is Siddharth Potta and I'm a Sophomore at UT Austin majoring in Computer Science, currently a System Software Engineer Intern at Intel working on GPU firmware.</p>
+<p align="left">My name is Siddharth Potta and I'm a Junior at UT Austin majoring in Computer Science, currently a System Software Engineer Intern at Intel working on GPU firmware.</p>
 
 <h2 align="left">About me</h2>
 
